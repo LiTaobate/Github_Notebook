@@ -1,9 +1,13 @@
+# mujoco_py 配置问题汇总
+
 ## 问题1
-```
+
+```py
 Creating window glfw
 ERROR: GLEW initalization error: Missing GL version
 ```
-**参考GitHub issues：** https://github.com/openai/mujoco-py/issues/432
+
+**参考GitHub issues：**  https://github.com/openai/mujoco-py/issues/432
 
 ### 方法1：在.bashrc中添加一下内容
 ```py
