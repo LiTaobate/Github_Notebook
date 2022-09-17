@@ -228,3 +228,9 @@ for i in range(1000):
 ```
 - 运行截图：
 ![image.png](https://upload-images.jianshu.io/upload_images/9147323-ae1b3dc847c6f516.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 三、关于Robosuite的解读
+关于Robosuite的控制器分类：
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/73519321/190849962-6b8bd2bf-b989-40e0-a32d-1e73600c4bbf.png">
+
+
